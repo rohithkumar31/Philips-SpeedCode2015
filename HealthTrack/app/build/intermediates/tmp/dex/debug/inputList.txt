@@ -1,0 +1,2 @@
+C:\Users\Sachin\AndroidStudioProjects\HealthTrack\app\build\intermediates\classes\debug
+C:\Users\Sachin\AndroidStudioProjects\HealthTrack\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-8e9ee983522407a7dae4c20ae9a2b59e63ca0276.jar
